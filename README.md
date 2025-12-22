@@ -79,7 +79,7 @@ Ensure that all required assets (images and sounds) are placed in the correct di
 
 This project is preserved as an educational and portfolio example.
 No active development is planned.
-
+```
 📈 What I Learned
 Building a scrolling 2D game world
 
